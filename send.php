@@ -11,7 +11,7 @@
     echo "<br>";
     echo $email;
     echo "<br>";
-    //if (mail("lemesukdima8@gmail.com", "Заявка с сайта", "ФИО:".$fio.". E-mail: ".$email ,"From: dmutrolemeshuk@gmail.com \r\n"))
+    //if (mail("lemesukdima8@gmail.com", "Заявка с сайта", "ФИО:".$fio.". E-mail: ".$email ,"From: info@dimalemeshuk.github.io/TestPage3/ \r\n"))
     if (mail("lemesukdima8@gmail.com", "TEMA", "rrbbfeebfbfbf" ,"From: lemesukdima8@gmail.com \r\n"))
     //From: info@localhost:8888/site2/ \r\n
     //From: info@localhost:8888/site2/send.php
